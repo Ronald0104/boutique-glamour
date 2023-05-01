@@ -1,0 +1,789 @@
+DEBUG - 2023-05-01 16:07:15 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:07:15 --> No URI present. Default controller set.
+DEBUG - 2023-05-01 16:07:15 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:07:19 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión C:\xampp\htdocs\boutique-glamour\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2023-05-01 16:07:19 --> Unable to connect to the database
+DEBUG - 2023-05-01 16:17:43 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:17:43 --> No URI present. Default controller set.
+DEBUG - 2023-05-01 16:17:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:17:43 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'phmigxhu_sistema'@'localhost' (using password: YES) C:\xampp\htdocs\boutique-glamour\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2023-05-01 16:17:43 --> Unable to connect to the database
+DEBUG - 2023-05-01 16:20:37 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:20:37 --> No URI present. Default controller set.
+DEBUG - 2023-05-01 16:20:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:20:37 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'phmigxhu_sistema'@'localhost' (using password: YES) C:\xampp\htdocs\boutique-glamour\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2023-05-01 16:20:37 --> Unable to connect to the database
+DEBUG - 2023-05-01 16:26:34 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:26:34 --> No URI present. Default controller set.
+DEBUG - 2023-05-01 16:26:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:26:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:26:34 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:26:45 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:26:45 --> No URI present. Default controller set.
+DEBUG - 2023-05-01 16:26:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:26:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:26:45 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:27:49 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:27:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:27:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:27:49 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:27:49 --> Total execution time: 0.0290
+DEBUG - 2023-05-01 16:27:52 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:27:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:27:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:27:52 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:27:52 --> Total execution time: 0.0532
+DEBUG - 2023-05-01 16:29:46 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:29:46 --> No URI present. Default controller set.
+DEBUG - 2023-05-01 16:29:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:29:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:29:46 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:29:52 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:29:52 --> No URI present. Default controller set.
+DEBUG - 2023-05-01 16:29:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:29:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:29:52 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:31:16 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:31:16 --> No URI present. Default controller set.
+DEBUG - 2023-05-01 16:31:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:31:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:31:16 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:33:19 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:33:19 --> No URI present. Default controller set.
+DEBUG - 2023-05-01 16:33:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:33:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:33:19 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:36:01 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:36:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:36:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:36:01 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:36:01 --> Total execution time: 0.0510
+DEBUG - 2023-05-01 16:36:18 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:36:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:36:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:36:18 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:36:18 --> Total execution time: 0.0560
+DEBUG - 2023-05-01 16:38:01 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:01 --> No URI present. Default controller set.
+DEBUG - 2023-05-01 16:38:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:38:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:38:01 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:38:01 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:38:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:38:01 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:38:01 --> Total execution time: 0.0384
+DEBUG - 2023-05-01 16:38:01 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:38:01 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:38:01 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:01 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:01 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:38:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:38:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:38:01 --> 404 Page Not Found: Assets/jquery
+ERROR - 2023-05-01 16:38:01 --> 404 Page Not Found: Assets/css
+ERROR - 2023-05-01 16:38:01 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:38:01 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:02 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:38:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:38:02 --> 404 Page Not Found: Assets/img
+ERROR - 2023-05-01 16:38:02 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 16:38:07 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:07 --> No URI present. Default controller set.
+DEBUG - 2023-05-01 16:38:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:38:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:38:07 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:38:07 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:38:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:38:07 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:38:07 --> Total execution time: 0.0419
+DEBUG - 2023-05-01 16:38:08 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:38:08 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:38:08 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:38:08 --> 404 Page Not Found: Assets/css
+DEBUG - 2023-05-01 16:38:08 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:38:08 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 16:38:08 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:38:08 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 16:38:08 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:08 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:38:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:38:08 --> 404 Page Not Found: Assets/bootstrap4-lm
+ERROR - 2023-05-01 16:38:08 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 16:38:51 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:38:51 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 16:38:57 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:38:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:38:57 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 16:41:45 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:41:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:41:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:41:45 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:41:45 --> Total execution time: 0.0360
+DEBUG - 2023-05-01 16:41:45 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:41:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:41:45 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:41:45 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:41:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:41:45 --> 404 Page Not Found: Assets/css
+DEBUG - 2023-05-01 16:41:46 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:41:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:41:46 --> UTF-8 Support Enabled
+ERROR - 2023-05-01 16:41:46 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 16:41:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:41:46 --> UTF-8 Support Enabled
+ERROR - 2023-05-01 16:41:46 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 16:41:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:41:46 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 16:41:46 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:41:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:41:46 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:43:20 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:43:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:43:20 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:43:20 --> Total execution time: 0.0313
+DEBUG - 2023-05-01 16:43:20 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:20 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:43:20 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:20 --> 404 Page Not Found: Assets/css
+DEBUG - 2023-05-01 16:43:20 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:20 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 16:43:20 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:20 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:43:20 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:20 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:43:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:20 --> 404 Page Not Found: Assets/js
+ERROR - 2023-05-01 16:43:20 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 16:43:23 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:43:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:43:23 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:43:23 --> Total execution time: 0.0288
+DEBUG - 2023-05-01 16:43:23 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:23 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:43:23 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:23 --> 404 Page Not Found: Assets/css
+DEBUG - 2023-05-01 16:43:23 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:23 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 16:43:23 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:23 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:23 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:43:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:23 --> 404 Page Not Found: Assets/img
+ERROR - 2023-05-01 16:43:23 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 16:43:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:23 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:43:50 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:43:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:43:50 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:43:50 --> Total execution time: 0.0315
+DEBUG - 2023-05-01 16:43:50 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:50 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:43:50 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:50 --> 404 Page Not Found: Assets/css
+DEBUG - 2023-05-01 16:43:50 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:50 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:50 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 16:43:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:50 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:43:50 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:50 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:43:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:50 --> 404 Page Not Found: Assets/js
+ERROR - 2023-05-01 16:43:50 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 16:43:57 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:43:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:43:57 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:43:57 --> Total execution time: 0.0447
+DEBUG - 2023-05-01 16:43:57 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:57 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:43:57 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:57 --> 404 Page Not Found: Assets/css
+DEBUG - 2023-05-01 16:43:57 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:57 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 16:43:57 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:57 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:57 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:43:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:57 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 16:43:57 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:43:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:43:57 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 16:44:42 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:42 --> No URI present. Default controller set.
+DEBUG - 2023-05-01 16:44:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:44:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:44:42 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:44:42 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:44:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:44:42 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:44:42 --> Total execution time: 0.0300
+DEBUG - 2023-05-01 16:44:42 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:42 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:42 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:44:42 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:44:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:44:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:44:42 --> 404 Page Not Found: Assets/jquery
+ERROR - 2023-05-01 16:44:42 --> 404 Page Not Found: Assets/css
+DEBUG - 2023-05-01 16:44:42 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:44:42 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:44:42 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:44:42 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 16:44:42 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:44:42 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 16:44:48 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:44:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:44:48 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:44:48 --> Total execution time: 0.0450
+DEBUG - 2023-05-01 16:44:48 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:44:48 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:44:48 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:44:48 --> 404 Page Not Found: Assets/css
+DEBUG - 2023-05-01 16:44:48 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:44:48 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 16:44:48 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:48 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:44:48 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:44:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:44:48 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 16:44:48 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:44:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:44:48 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 16:45:45 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:45:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:45:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:45:45 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:45:45 --> Total execution time: 0.0452
+DEBUG - 2023-05-01 16:45:45 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:45:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:45:45 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:45:45 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:45:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:45:45 --> 404 Page Not Found: Assets/css
+DEBUG - 2023-05-01 16:45:45 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:45:45 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:45:45 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:45:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:45:45 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 16:45:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:45:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:45:45 --> 404 Page Not Found: Assets/js
+ERROR - 2023-05-01 16:45:45 --> 404 Page Not Found: Assets/bootstrap4-lm
+DEBUG - 2023-05-01 16:45:45 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:45:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:45:45 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 16:51:41 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:51:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 16:51:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 16:51:41 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 16:51:41 --> Total execution time: 0.0297
+DEBUG - 2023-05-01 16:51:41 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:51:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:51:41 --> 404 Page Not Found: Assets/css
+DEBUG - 2023-05-01 16:51:41 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:51:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:51:41 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 16:51:41 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:51:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:51:41 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 16:51:41 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 16:51:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 16:51:41 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:20:06 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:20:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:20:06 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:20:06 --> Total execution time: 0.0435
+DEBUG - 2023-05-01 17:20:06 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:20:06 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:20:06 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:06 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:20:06 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:20:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:20:06 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:20:20 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:20:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:20:20 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:20:20 --> Total execution time: 0.0272
+DEBUG - 2023-05-01 17:20:20 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:20:20 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:20:20 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:20 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:20:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:20:20 --> 404 Page Not Found: Assets/js
+ERROR - 2023-05-01 17:20:20 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:20:22 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:20:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:20:22 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:20:22 --> Total execution time: 0.0276
+DEBUG - 2023-05-01 17:20:22 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:22 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:22 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:20:22 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:20:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:20:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:20:22 --> 404 Page Not Found: Assets/img
+ERROR - 2023-05-01 17:20:22 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:20:26 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:20:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:20:27 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:20:27 --> Total execution time: 0.0305
+DEBUG - 2023-05-01 17:20:37 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:20:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:20:37 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:20:37 --> Total execution time: 0.0243
+DEBUG - 2023-05-01 17:20:37 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:20:37 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:20:37 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:20:37 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:20:37 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:20:37 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:20:38 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:20:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:20:38 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:20:38 --> Total execution time: 0.0242
+DEBUG - 2023-05-01 17:20:38 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:20:38 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:20:38 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:20:38 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:20:38 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:20:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:20:38 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:21:04 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:21:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:21:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:21:04 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:21:04 --> Total execution time: 0.0300
+DEBUG - 2023-05-01 17:21:04 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:21:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:21:04 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:21:04 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:21:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:21:04 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:21:04 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:21:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:21:04 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:21:07 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:21:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:21:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:21:07 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:21:07 --> Total execution time: 0.0253
+DEBUG - 2023-05-01 17:21:07 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:21:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:21:07 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:21:07 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:21:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:21:07 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:21:07 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:21:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:21:07 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:22:54 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:22:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:22:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:22:54 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:22:54 --> Total execution time: 0.0246
+DEBUG - 2023-05-01 17:22:54 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:22:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:22:55 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:22:55 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:22:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:22:55 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:22:55 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:22:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:22:55 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:22:58 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:22:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:22:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:22:58 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:22:58 --> Total execution time: 0.0269
+DEBUG - 2023-05-01 17:22:58 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:22:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:22:58 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:22:58 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:22:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:22:58 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:22:58 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:22:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:22:58 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:23:47 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:23:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:23:47 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:23:47 --> Total execution time: 0.0266
+DEBUG - 2023-05-01 17:23:47 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:47 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:23:47 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:47 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:23:47 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:47 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:23:51 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:23:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:23:51 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:23:51 --> Total execution time: 0.0255
+DEBUG - 2023-05-01 17:23:51 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:51 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:51 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:23:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:51 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:23:51 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:51 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:23:56 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:23:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:23:56 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:23:56 --> Total execution time: 0.0293
+DEBUG - 2023-05-01 17:23:57 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:57 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:23:57 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:57 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:23:57 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:57 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:23:58 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:23:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:23:58 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:23:58 --> Total execution time: 0.0273
+DEBUG - 2023-05-01 17:23:58 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:58 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:23:58 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:58 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:23:58 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:58 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:23:59 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:23:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:23:59 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:23:59 --> Total execution time: 0.0263
+DEBUG - 2023-05-01 17:23:59 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:59 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:59 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:23:59 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:59 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:59 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:23:59 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:23:59 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:23:59 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:24:00 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:24:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:24:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:24:00 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:24:00 --> Total execution time: 0.0419
+DEBUG - 2023-05-01 17:24:01 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:24:01 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:24:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:24:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:24:01 --> 404 Page Not Found: Assets/img
+ERROR - 2023-05-01 17:24:01 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:24:01 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:24:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:24:01 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:24:02 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:24:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:24:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:24:02 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:24:02 --> Total execution time: 0.0288
+DEBUG - 2023-05-01 17:24:02 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:24:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:24:02 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:24:02 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:24:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:24:02 --> 404 Page Not Found: Assets/jquery
+DEBUG - 2023-05-01 17:24:02 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:24:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:24:02 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:34:39 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:34:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:34:39 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:34:39 --> Total execution time: 0.0281
+DEBUG - 2023-05-01 17:34:39 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:39 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:34:39 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:39 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:34:46 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:34:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:34:46 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:34:46 --> Total execution time: 0.0592
+DEBUG - 2023-05-01 17:34:46 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:46 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:34:46 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:46 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:34:47 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:34:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:34:47 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:34:47 --> Total execution time: 0.0525
+DEBUG - 2023-05-01 17:34:47 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:47 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:34:47 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:47 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:34:48 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:34:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:34:48 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:34:48 --> Total execution time: 0.0409
+DEBUG - 2023-05-01 17:34:48 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:48 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:34:48 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:48 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:34:48 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:34:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:34:48 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:34:48 --> Total execution time: 0.0380
+DEBUG - 2023-05-01 17:34:49 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:49 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:34:49 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:49 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:34:50 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:34:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:34:50 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:34:50 --> Total execution time: 0.0378
+DEBUG - 2023-05-01 17:34:50 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:50 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:34:50 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:50 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:34:51 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:34:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:34:51 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:34:51 --> Total execution time: 0.0296
+DEBUG - 2023-05-01 17:34:51 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:51 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:34:51 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:51 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:34:52 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:34:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:34:52 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:34:52 --> Total execution time: 0.0434
+DEBUG - 2023-05-01 17:34:52 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:52 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:34:52 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:52 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:34:53 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:34:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:34:53 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:34:53 --> Total execution time: 0.0447
+DEBUG - 2023-05-01 17:34:53 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:53 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:34:53 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:34:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:34:53 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:35:03 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:35:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:35:03 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:35:03 --> Total execution time: 0.0228
+DEBUG - 2023-05-01 17:35:03 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:03 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:03 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:35:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:03 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:35:04 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:35:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:35:04 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:35:04 --> Total execution time: 0.0232
+DEBUG - 2023-05-01 17:35:04 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:04 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:35:04 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:04 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:35:05 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:35:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:35:05 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:35:05 --> Total execution time: 0.0382
+DEBUG - 2023-05-01 17:35:05 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:05 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:35:05 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:05 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:35:06 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:35:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:35:06 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:35:06 --> Total execution time: 0.0449
+DEBUG - 2023-05-01 17:35:06 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:06 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:35:06 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:06 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:35:06 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:35:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:35:06 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:35:06 --> Total execution time: 0.0303
+DEBUG - 2023-05-01 17:35:07 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:07 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:35:07 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:07 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:35:07 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:35:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:35:07 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:35:07 --> Total execution time: 0.0276
+DEBUG - 2023-05-01 17:35:07 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:07 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:35:07 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:07 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:35:08 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:35:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:35:08 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:35:08 --> Total execution time: 0.0281
+DEBUG - 2023-05-01 17:35:08 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:08 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:35:08 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:08 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:35:09 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:35:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:35:09 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:35:09 --> Total execution time: 0.0272
+DEBUG - 2023-05-01 17:35:09 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:09 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:35:09 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:09 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:35:24 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:35:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:35:24 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:35:24 --> Total execution time: 0.0342
+DEBUG - 2023-05-01 17:35:24 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:24 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:35:24 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:24 --> 404 Page Not Found: Assets/js
+DEBUG - 2023-05-01 17:35:25 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:35:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:35:25 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:35:25 --> Total execution time: 0.0298
+DEBUG - 2023-05-01 17:35:26 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:26 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:35:28 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:35:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:35:28 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:35:28 --> Total execution time: 0.0266
+DEBUG - 2023-05-01 17:35:29 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:29 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:29 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:35:38 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:35:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:35:38 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:35:38 --> Total execution time: 0.0390
+DEBUG - 2023-05-01 17:35:38 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:35:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2023-05-01 17:35:38 --> 404 Page Not Found: Assets/img
+DEBUG - 2023-05-01 17:36:48 --> UTF-8 Support Enabled
+DEBUG - 2023-05-01 17:36:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-05-01 17:36:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2023-05-01 17:36:48 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-05-01 17:36:48 --> Total execution time: 0.0268

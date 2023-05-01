@@ -1,0 +1,35 @@
+body {
+    background-color: #c5d8dcba;
+}
+/* #container-login { 
+} */
+.col-login {
+    /* width: 380px; */
+    max-width: 380px;
+    margin: 60px auto;
+    padding: 0 15px;
+}
+.panel-heading {
+    padding: 5px 15px;
+}
+.panel-footer {
+	padding: 1px 15px;
+	color: #A0A0A0;
+}
+.profile-img {
+	width: 96px;
+	height: 96px;
+	margin: 0 auto 10px;
+	display: block;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+.text-login {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.text-login > span {
+    color: #6c76c1;
+    font-weight:bold
+}
